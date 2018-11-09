@@ -9,5 +9,6 @@ nav:
       - HTTP/HTTPS and Nginx: http-https-nginx.md
       - DNS Server Setup - bind, dig, nslookup: dns-server-setup.md
       - ARP Protocol and Poisoning: arp.md
+  - Notes: notes.md
 theme: 
   name: 'material'
