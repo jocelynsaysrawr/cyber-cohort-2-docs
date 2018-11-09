@@ -1,1 +1,12 @@
-site_name: My Docs
+site_name: DevLeague Cyber Security - Cohort 2
+nav:
+  - Home: index.md
+  - Labs:
+    - Wireshark Setup & Basics: wireshark-setup.md
+    - VirtualBox Setup & Overview: virtual-box-setup.md
+    - Security +:
+      - Ping Sweeps with Wireshark & Nmap: ping-sweep-ws-nmap.md
+      - HTTP/HTTPS and Nginx: http-https-nginx.md
+      - DNS Server Setup - bind, dig, nslookup: dns-server-setup.md
+theme: 
+  name: 'material'
